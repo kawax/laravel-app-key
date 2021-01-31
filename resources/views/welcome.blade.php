@@ -13,7 +13,7 @@
 <body>
 <div>
     <h1>Laravel APP_KEY Generator</h1>
-    APP_KEY={{ $key }}
+    {{ $key }}
 </div>
 </body>
 </html>
