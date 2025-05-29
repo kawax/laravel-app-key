@@ -1,1 +1,4 @@
-https://laravel-app-key.vercel.app/
+The following command will do instead:
+```
+php artisan key:generate --show
+```
